@@ -11,8 +11,7 @@ $(document).ready(function(){
 	});
 
 	/* highlight the top nav as scrolling occurs */
-	$('body').scrollspy({ target: '#navbar' });
-
+	/* $('body').scrollspy({ target: '#navbar' }); */
 
 	$(window).scroll(function() {
 		if($(window).scrollTop() + $(window).height() > $(document).height() - 100) {
