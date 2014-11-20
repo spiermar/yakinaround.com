@@ -13,6 +13,10 @@ body {
 /* fix bs3 horizontal scrollbar bug */
 .row { margin: 0; padding: 0 }
 
+.spacer {
+  margin-top: 15px;
+}
+
 h1 {
   font-size:45px; 
 }
@@ -39,7 +43,7 @@ img.grayscale {
 }
 
 .scroll-top {
-  background-color:#FFDB58;
+  background-color:#515151;
 }
 
 .header .btn-lg {
@@ -60,22 +64,22 @@ img.grayscale {
 }
 
 .navbar-bold.affix {
-  background-color:#FFDB58;
+  background-color:#515151;
 }
 
 .navbar-bold {
-  background-color:#FFDB58;
+  background-color:#515151;
   font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
 .navbar-bold li a:hover, .navbar-bold li.active {
-  background-color:#FDD017;
+  background-color:#7CAFD3;
 }
 
 .vert {
   vertical-align: middle;
   width:100%;
-  padding-top:4%;
+  padding-top:210px;
 }
 
 .header h1 {
@@ -95,7 +99,7 @@ img.grayscale {
 
 .header {
   height: 80%;
-  background: #FFDB58 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
+  background: #7CAFD3 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
 }
 
 .blurb {
@@ -113,7 +117,7 @@ img.grayscale {
 }
 
 .featurette {
-  background: #545455;
+  background: #515151;
   padding: 50px 0;
   color: #ffffff;
 }
