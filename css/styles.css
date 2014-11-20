@@ -17,6 +17,14 @@ body {
   margin-top: 15px;
 }
 
+.vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
 h1 {
   font-size:45px; 
 }
@@ -37,7 +45,7 @@ img.grayscale {
 
 .scroll-down {
    position:fixed;
-   bottom:20%;
+   bottom:0%;
    right:0%;
    color:#f9f9f9;
 }
@@ -98,7 +106,7 @@ img.grayscale {
 }
 
 .header {
-  height: 80%;
+  height: 100%;
   background: #7CAFD3 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
 }
 
