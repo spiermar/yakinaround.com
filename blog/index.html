@@ -1,0 +1,28 @@
+---
+layout: default
+title: Yakin' Blog
+---
+<div class="blurb">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				<h2>{{ page.title }}</h2>
+			</div>
+		</div>
+		{% for post in site.posts %}
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				<hr>
+				<h2>{{ post.title }}</h2>
+				<p class="lead">{{ post.date | date_to_string }}</p>
+				<p>&nbsp;</p>
+				<div>
+					{{ post.content }}
+				</div>
+				<p>&nbsp;</p>
+				<a href="{{ post.url }}" type="button" class="btn btn-default">View Post</a>
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
