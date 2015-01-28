@@ -17,6 +17,13 @@ body {
   margin-top: 15px;
 }
 
+.img-shadow {
+    -webkit-box-shadow: 20px 20px 50px 0px rgba(28,28,28,1);
+    -moz-box-shadow: 20px 20px 50px 0px rgba(28,28,28,1);
+    box-shadow: 20px 20px 50px 0px rgba(28,28,28,1);
+    margin-bottom: 50px;
+}
+
 .vertical-align {
   position: relative;
   top: 40%;
