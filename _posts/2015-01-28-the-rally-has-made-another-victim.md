@@ -4,7 +4,7 @@ title:  "The Rally Has Made Another Victim"
 date:   2015-01-28 16:00:00
 categories: planning
 ---
-Well, not yet, but we found our third and (possibly) last team member! Neto Macedo, an amazing photographer from Montes Claros, Brazil. You can see some of Neto's work at [netomacedo.com.br](http://www.netomacedo.com/).
+Well, not yet, but we found our third and (possibly) last team member! Neto Macedo, an amazing photographer from Montes Claros, Brazil. You can see some of Neto's work at [netomacedo.com](http://www.netomacedo.com/).
 
 I can't stress enough how happy we are with Neto's decision to join the team. We will be adventuring into amazing places, experiencing a multitude of cultures and having someone like Neto to help us capture every moment is really amazing!
 
