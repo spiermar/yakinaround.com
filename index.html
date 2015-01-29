@@ -82,7 +82,7 @@ title: Team Yakin' Around
           <div class="col-md-4"><img class="img-circle" src="img/igor.jpg">
             <p>&nbsp;</p>
             <p class="lead">Igor</p>
-          </div>  
+          </div>
           <div class="col-md-4"><img class="img-circle" src="img/neto.jpg">
             <p>&nbsp;</p>
             <p class="lead">Neto</p>
@@ -127,7 +127,7 @@ title: Team Yakin' Around
           <div class="col-md-4"><img class="img-circle" src="img/1997_micra.png">
             <p>&nbsp;</p>
             <p class="lead">1997 Nissan Micra</p>
-          </div>  
+          </div>
           <div class="col-md-4"><img class="img-circle" src="img/1999_alto.png">
             <p>&nbsp;</p>
             <p class="lead">1999 Suzuki Alto</p>
@@ -179,10 +179,30 @@ title: Team Yakin' Around
             </div>
             <div class="col-md-6">
               <a href="http://nordweg.com/" target="_blank"><img class="img-rounded" src="img/nordweg.jpg"></a>
-            </div>  
+            </div>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="latestblogs" class="blurb">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1>Latest Blog Posts</h1>
+      </div>
+    </div>
+    <p>&nbsp;</p>
+    <div class="row">
+      <div class="text-center spacer">
+        {% for post in site.posts limit:5 %}
+        <p class="lead"><span>{{ post.date | date_to_string }}</span> &raquo;
+        <a href="{{ BASE_PATH }}{{ post.url }}">
+          {{ post.title }}</a></p>
+        {% endfor %}
       </div>
     </div>
   </div>
