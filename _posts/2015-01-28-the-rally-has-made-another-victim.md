@@ -6,9 +6,9 @@ categories: planning
 ---
 Well, not yet, but we found our third and (possibly) last team member! Neto Macedo, an amazing photographer from Montes Claros, Brazil. You can see some of Neto's work at [netomacedo.com](http://www.netomacedo.com/).
 
-I can't stress enough how happy we are with Neto's decision to join the team. We will be adventuring into amazing places, experiencing a multitude of cultures and having someone like Neto to help us capture every moment is really amazing!
+I can't stress enough how happy we are with Neto's decision to join the team. We will be adventuring into amazing places, experiencing a multitude of cultures and having someone like Neto help us capture every moment is really amazing! We hope this content will help inspiring even more people to take a chance and adventure in the world. There's so much of it out there!
 
-It's not just about being a talented photographer, but the fondness for traveling and the need for adventure, and it's not easy to find someone like that.
+Last but not least, it's not just about being a talented photographer, but also the fondness for traveling and the need for adventure. It's not easy to find someone like that.
 
 Welcome to the Team Neto!
 
