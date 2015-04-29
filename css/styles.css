@@ -83,16 +83,16 @@ img.grayscale {
 }
 
 .navbar-bold.affix {
-  background-color:#193441;
+  background-color:#3E606F;
 }
 
 .navbar-bold {
-  background-color:#193441;
+  background-color:#3E606F;
   font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
 .navbar-bold li a:hover, .navbar-bold li.active {
-  background-color:#3E606F;
+  background-color:#91AA9D;
   color: #FCFFF5;
 }
 
@@ -105,7 +105,6 @@ img.grayscale {
 .header h1 {
   font-size:110px;
   -webkit-text-stroke: 1px rgba(0,0,0,0.1);
-  color:#431a6d;
   color:#FCFFF5;
   margin-left:-5px;
   margin-bottom:5px;
@@ -138,7 +137,8 @@ img.grayscale {
 }
 
 .featurette {
-  background: #193441;
+  background: #3E606F url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center;
+  /* background: #193441; */
   padding: 50px 0;
   color: #FCFFF5;
 }
