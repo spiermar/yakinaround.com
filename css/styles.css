@@ -88,7 +88,7 @@ img.grayscale {
   font-family: 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.navbar-bold li a:hover, .navbar-bold li.active {
+.navbar-bold li a:hover, .navbar-bold li a:focus, .navbar-bold li.active {
   background-color:#91AA9D;
   color: #FCFFF5;
 }
