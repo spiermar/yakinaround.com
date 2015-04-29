@@ -7,7 +7,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-family: 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 /* fix bs3 horizontal scrollbar bug */
@@ -88,7 +88,7 @@ img.grayscale {
 
 .navbar-bold {
   background-color:#3E606F;
-  font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-family: 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-bold li a:hover, .navbar-bold li.active {
@@ -108,7 +108,7 @@ img.grayscale {
   color:#FCFFF5;
   margin-left:-5px;
   margin-bottom:5px;
-  font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-family: 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .header .lead {
