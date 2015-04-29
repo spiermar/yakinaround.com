@@ -33,7 +33,7 @@ body {
 }
 
 h1 {
-  font-size:45px; 
+  font-size:45px;
 }
 
 img.grayscale {
@@ -127,7 +127,7 @@ img.grayscale {
 }
 
 .bright {
-  background: #7fbbda url('../img/bg_mongol_rally.jpg') no-repeat center center fixed; 
+  background: #7fbbda url('../img/bg_mongol_rally.jpg') no-repeat center center fixed;
   color:#fff;
 }
 
@@ -149,7 +149,7 @@ img.grayscale {
   width: 140px;
   height: 140px;
   line-height: 136px;
-  vertical-align: middle; 
+  vertical-align: middle;
   text-align: center;
 }
 
@@ -162,7 +162,7 @@ img.grayscale {
   padding-top:7%;
   height: 100%;
   width: 100%;
-  background: url('../img/bg_mongol_rally.jpg') no-repeat center center fixed; 
+  background: url('../img/bg_mongol_rally.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -187,3 +187,21 @@ footer {
 }
 
 /* -- end custom css for Bootstrap 3.x --*/
+
+p.normal {
+  font-weight: normal;
+}
+
+.route {
+  color: #ffffff;
+  padding-top:7%;
+  height: 75%;
+  width: 100%;
+  background: url('../img/pre-route.jpg');
+  background-position: 50% 50%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #859093;
+}
