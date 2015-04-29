@@ -1,7 +1,8 @@
-/* -- custom css for Bootstrap 3.x --*/
+/* color palette: https://color.adobe.com/Neutral-Blue-color-theme-22361/ */
 
-/* move special fonts to HTML head for better performance */
-@import url('http://fonts.googleapis.com/css?family=Open+Sans:200,300,400,600');
+/* font: https://www.google.com/fonts#ChoosePlace:select/Collection:Open+Sans */
+
+/* -- custom css for Bootstrap 3.x --*/
 
 html,
 body {
