@@ -75,7 +75,11 @@ img.grayscale {
 }
 
 .navbar a {
-  color:#FCFFF5;
+  color: #FCFFF5;
+}
+
+.navbar a:hover {
+  color: #FCFFF5;
 }
 
 .navbar-bold.affix {
@@ -89,6 +93,7 @@ img.grayscale {
 
 .navbar-bold li a:hover, .navbar-bold li.active {
   background-color:#3E606F;
+  color: #FCFFF5;
 }
 
 .vert {
