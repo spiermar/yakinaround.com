@@ -218,6 +218,7 @@ p.normal {
 .btn-yakin:hover {
   color: #FCFFF5;
   background-color: #3E606F;
+  border-color: #FCFFF5;
 }
 
 .blurb .btn-yakin {
@@ -226,6 +227,12 @@ p.normal {
 
 .blurb .btn-yakin:hover {
   background-color: #3E606F;
+}
+
+.header .btn-yakin:hover {
+  background-color: #3E606F;
+  color: #FCFFF5;
+  border-color: #FCFFF5;
 }
 
 a {
