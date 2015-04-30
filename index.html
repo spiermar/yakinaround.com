@@ -93,24 +93,6 @@ title: Team Yakin' Around
   </div>
 </div>
 
-<div class="featurette" id="latest">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 text-center">
-        <h1>Latest Blog Posts</h1>
-        <br><br><br>
-        <div>
-          {% for post in site.posts limit:5 %}
-          <p class="lead"><span>{{ post.date | date_to_string }}</span> &raquo;
-          <a href="{{ BASE_PATH }}{{ post.url }}">
-            {{ post.title }}</a></p>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div id="team" class="blurb">
   <div class="container">
     <div class="row">
@@ -240,6 +222,24 @@ title: Team Yakin' Around
             </div>
             </div>
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="featurette" id="latest">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1>Latest Blog Posts</h1>
+        <br><br><br>
+        <div>
+          {% for post in site.posts limit:5 %}
+          <p class="lead"><span>{{ post.date | date_to_string }}</span> &raquo;
+          <a href="{{ BASE_PATH }}{{ post.url }}">
+            {{ post.title }}</a></p>
+          {% endfor %}
         </div>
       </div>
     </div>
