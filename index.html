@@ -2,6 +2,15 @@
 layout: default
 title: Team Yakin' Around
 ---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3&appId=151536691713830";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div class="header vert">
   <div class="container text-center vertical-align">
     <img src="/img/logo_white.png" width="50%">
@@ -84,7 +93,25 @@ title: Team Yakin' Around
   </div>
 </div>
 
-<div class="featurette" id="team">
+<div class="featurette" id="latest">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h1>Latest Blog Posts</h1>
+        <br><br><br>
+        <div>
+          {% for post in site.posts limit:5 %}
+          <p class="lead"><span>{{ post.date | date_to_string }}</span> &raquo;
+          <a href="{{ BASE_PATH }}{{ post.url }}">
+            {{ post.title }}</a></p>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="team" class="blurb">
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
@@ -200,7 +227,7 @@ title: Team Yakin' Around
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h1>Sponsors</h1>
+        <h1>Our Sponsors</h1>
       </div>
       <div class="row spacer">
         <div class="col-md-8 col-md-offset-2 text-center">
@@ -219,21 +246,21 @@ title: Team Yakin' Around
   </div>
 </div>
 
-<div id="latestblogs" class="blurb">
+<div id="social" class="blurb">
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h1>Latest Blog Posts</h1>
+        <h1>Social</h1>
       </div>
     </div>
-    <p>&nbsp;</p>
+    <br><br><br>
     <div class="row">
-      <div class="text-center spacer">
-        {% for post in site.posts limit:5 %}
-        <p class="lead"><span>{{ post.date | date_to_string }}</span> &raquo;
-        <a href="{{ BASE_PATH }}{{ post.url }}">
-          {{ post.title }}</a></p>
-        {% endfor %}
+      <div class="col-md-6 text-center">
+        <div class="fb-page" data-href="https://www.facebook.com/yakinaroundteam" data-width="500" data-height="600" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/yakinaroundteam"><a href="https://www.facebook.com/yakinaroundteam">Team Yakin&#039; Around</a></blockquote></div></div>
+      </div>
+      <div class="col-md-6 text-center">
+        <a class="twitter-timeline" href="https://twitter.com/yakinaround" data-widget-id="593564685615501313">Tweets by @yakinaround</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </div>
     </div>
   </div>
