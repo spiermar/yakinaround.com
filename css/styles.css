@@ -236,9 +236,9 @@ p.normal {
 }
 
 .header .btn-yakin:hover {
-  background-color: #3E606F;
-  color: #FCFFF5;
-  border-color: #FCFFF5;
+  background-color: #D1DBBD;
+  color: #193441;
+  border-color: #D1DBBD;
 }
 
 a {
@@ -248,4 +248,10 @@ a {
 a:hover {
   text-decoration: none;
   color: #193441;
+}
+
+.btn {
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  border-radius: 0 !important;
 }
