@@ -17,7 +17,7 @@
   </head>
   <body>
 
-<div class="navbar navbar-fixed-top navbar-bold" data-spy="affix" data-offset-top="1000">
+<div class="navbar navbar-fixed-top navbar-bold" data-spy="affix" data-offset-top="1000" hidden>
   <div class="container">
     <div class="navbar-header">
       <a href="#" class="navbar-brand"><img class="img-circle" src="/img/yak_white_256.png" height="25px"> Yakin' Around</a>
@@ -33,19 +33,21 @@
         <li><a href="#team">Team</a></li>
         <li><a href="#route">Route</a></li>
         <li><a href="#car">Car</a></li>
-        <li><a href="#charity">Charity</a></li>
+        <li><a href="#charity">Charities</a></li>
         <li><a href="#pictures">Pictures</a></li>
         <li><a href="#sponsors">Sponsors</a></li>
-        <li><a href="#social">Social</a></li>
         <li><a href="/blog">Blog</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://www.facebook.com/yakinaroundteam" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/yakinaround" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="http://instagram.com/yakinaround" target="_blank"><i class="fa fa-instagram"></i></a></li>
       </ul>
     </div>
    </div>
 </div>
 
 {{ content }}
-
-<hr>
 
 <footer>
   <div class="container">
@@ -75,6 +77,7 @@
     <script src="/js/countdown.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/scripts.js"></script>
+    <script src="/js/hide_navbar.js"></script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

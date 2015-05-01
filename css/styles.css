@@ -93,6 +93,10 @@ img.grayscale {
   color: #FCFFF5;
 }
 
+.navbar {
+  border: none;
+}
+
 .vert {
   vertical-align: middle;
   width:100%;
@@ -115,6 +119,7 @@ img.grayscale {
 
 .header {
   height: 100%;
+  min-height: 600px;
   /* background: #3E606F url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed; */
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/bg_mongol_rally.jpg') no-repeat center center fixed;
 }
@@ -199,6 +204,7 @@ p.normal {
   color: #FCFFF5;
   padding-top:7%;
   height: 75%;
+  min-height: 550px;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/pre-route.jpg');
   background-position: center center;
@@ -230,9 +236,9 @@ p.normal {
 }
 
 .header .btn-yakin:hover {
-  background-color: #3E606F;
-  color: #FCFFF5;
-  border-color: #FCFFF5;
+  background-color: #D1DBBD;
+  color: #193441;
+  border-color: #D1DBBD;
 }
 
 a {
@@ -242,4 +248,10 @@ a {
 a:hover {
   text-decoration: none;
   color: #193441;
+}
+
+.btn {
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  border-radius: 0 !important;
 }
