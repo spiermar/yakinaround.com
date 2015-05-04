@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Visa Mayhem"
+title:  "Turkmenistan LOI"
 categories: visas
 ---
