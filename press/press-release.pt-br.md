@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Press Release (pt-br)"
+title:  "Press Release"
 date:   2015-06-08 06:00:00
 categories: subpage
 ---
 # Gaúchos percorrem 19 países em rally de aventura que vai da Inglaterra à Mongólia
 
-## Trajeto inclui zonas de guerra, desertos e montanhas e deve ser concluído em até oito semanas  
+## Trajeto inclui zonas de guerra, desertos e montanhas e deve ser concluído em até oito semanas
 
+<br><br>
 
 Mais de 16 mil quilômetros, 19 países, cinco cadeias montanhosas e três desertos. Esse será o trajeto percorrido pelas equipes participantes do Mongol Rally, competição descrita por seus organizadores como a maior aventura de automobilismo do mundo. Com forte espírito de aventura e colaboratividade entre os participantes, o evento, que chega à sua 11 edição, tem como um de seus grandes objetivos a arrecadação de fundos para instituições de caridade apadrinhadas pelos times inscritos. E o desafio não se limita ao itinerário inusitado: as equipes devem percorrer o trajeto com um veículo compacto, com motor de baixa potência e pouco ou nenhum acessório, sem rota definida e sem equipe de apoio.
 
