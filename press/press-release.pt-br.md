@@ -41,3 +41,5 @@ Empresas interessadas em patrocinar a aventura e ter sua logomarca adesivada no 
 ### Nota ao Editor
 
 Temos muito interesse em fazer parcerias com a mídia para a cobertura da nossa jornada. Estaremos publicando conteúdo ao vivo e durante toda a viagem, conforme disponibilidade de sinal. A cobertura de sinal de celular será limitado, mas entrevistas são possíveis.
+
+<p><a href="https://dl.dropboxusercontent.com/u/348891/Yakin%20Around/images.zip" class="btn btn-default btn-lg">Media Kit</a></p>
