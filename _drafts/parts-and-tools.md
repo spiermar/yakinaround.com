@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Introducing the Team"
+title:  "Parts and Tools"
 categories: getting-ready
 ---
