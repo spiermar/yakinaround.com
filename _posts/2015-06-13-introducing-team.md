@@ -6,7 +6,9 @@ categories: getting-ready
 ---
 Finding a team mate for this adventure is no simple task. Ignoring the fact that the vast majority of the population wouldn't even dare to leave their comfortable lives and luxurious vacations in Hawaii to be cramped in a tiny car for almost two months, camping in some family's backyard in exchange for a football jersey and risking being kidnapped by jihadists in Afghanistan, it's hard to get the resources to do something like this. Who these days can afford being away from everything for two full months?
 
+
 Since I first decided to participate, I talked with so many friends, family (and strangers) trying to convince them this was the adventure of a lifetime. Unfortunately, the answer was always somewhere around "Why the hell would you do something like that?". To be fair, I still think there's something wrong with me. There's no logical sense on doing this rally, but I can't stop thinking about it. For me, it just doesn't make sense going to the same beach resort, year after year, without seeing anything new.
+
 
 Luckily, by random chance, I decided to mention the rally idea to Igor during his short visit to the Bay Area last year, and as you know, the rest is history.
 Since we haven't really introduced ourselves properly, here are a few words from Igor.
