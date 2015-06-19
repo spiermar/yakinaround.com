@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Press Release"
+title:  "Gaúchos percorrem 19 países em rally de aventura que vai da Inglaterra à Mongólia"
 date:   2015-06-08 06:00:00
 categories: subpage
 ---
 <img src="/img/mongol_rally_teams_sunset.jpg" alt="Mongol Rally Teams" width="50%"/>
 
 <div>&nbsp;</div>
-
-# Gaúchos percorrem 19 países em rally de aventura que vai da Inglaterra à Mongólia
 
 ## Trajeto inclui zonas de guerra, desertos e montanhas e deve ser concluído em até oito semanas
 
