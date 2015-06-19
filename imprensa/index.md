@@ -4,7 +4,7 @@ title:  "Press Release"
 date:   2015-06-08 06:00:00
 categories: subpage
 ---
-<img src="/img/mongo_rally_teams_sunset.jpg" alt="Mongol Rally Teams" width="50%"/>
+<img src="/img/mongol_rally_teams_sunset.jpg" alt="Mongol Rally Teams" width="50%"/>
 
 <div>&nbsp;</div>
 
