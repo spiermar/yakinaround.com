@@ -4,7 +4,7 @@ title:  "Gaúchos percorrem 19 países em rally de aventura que vai da Inglaterr
 date:   2015-06-08 06:00:00
 categories: subpage
 ---
-<img src="/img/mongol_rally_teams_sunset.jpg" alt="Mongol Rally Teams" width="50%"/>
+<img src="/img/mongol_rally_teams_sunset.jpg" class="img-shadow" alt="Mongol Rally Teams" width="50%"/>
 
 <div>&nbsp;</div>
 
