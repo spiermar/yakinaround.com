@@ -26,7 +26,7 @@ You can find more details about the project on the [foundation's website](https:
 
 Team Yakin' Around is proud to support Christina Noble Children's Foundation on the Blue Skies Ger Village project.
 
-Help us find a new home and support the street children of Ulaanbaatar by donating on the links below.
+Help us find a new home and support the street children and orphans of Ulaanbaatar by donating on the links below.
 
 * £1.50 will purchase 2 preventative blood tests for children in Mongolia.
 * £5 is all it costs to hold a birthday party at our Blue Skies Ger Village in Mongolia, big smiles all round!.
