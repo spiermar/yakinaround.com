@@ -4,7 +4,7 @@ title:  "CoolEarth"
 date:   2015-06-16 09:00:00
 categories: charity
 ---
-<img src="/img/cool-earth-2-940x705.jpg" class="img-shadow" alt="Cool Earth" width="50%"/>
+<img src="/img/cool-earth-2-940x705.jpg" class="img-shadow center" alt="Cool Earth" width="50%"/>
 
 <div>&nbsp;</div>
 
