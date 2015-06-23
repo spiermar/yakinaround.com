@@ -4,7 +4,7 @@ title:  "Christina Noble Children's Foundation"
 date:   2015-06-22 09:00:00
 categories: charity
 ---
-<img src="/img/christina-noble-940x705.jpg" class="img-shadow center" alt="Cool Earth" width="50%"/>
+<img src="/img/christina-noble-940x705.jpg" class="img-shadow center" alt="Christina Noble Children's Foundation" width="400"/>
 
 <div>&nbsp;</div>
 
