@@ -5,7 +5,7 @@ date:   2015-06-29 00:00:00
 categories: sponsor
 ---
 
-<img src="/img/sony.png" class="img-shadow center" alt="Sony" width="50%"/>
+<img src="/img/sony.png" class="center" alt="Sony" width="50%"/>
 
 <div>&nbsp;</div>
 
@@ -26,7 +26,3 @@ Outro aspecto importante é a resistência à ågua e poeira. Estaremos cruzando
 <div>&nbsp;</div>
 
 Estaremos compatilhando todas as imagens e vídeos da aventura nas redes sociais usando a hashtag #sonyxperiabr. Acompanhe nossa jornada e não deixe de comentar!
-
-<div>&nbsp;</div>
-
-<p><a href="http://www.sonymobile.com/br/" target="_blank" class="btn btn-default">Acesse o site da Sony</a></p>
