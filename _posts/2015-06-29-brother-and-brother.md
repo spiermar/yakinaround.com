@@ -5,7 +5,7 @@ date:   2015-06-29 00:00:00
 categories: sponsor
 ---
 
-<img src="/img/brother_and_brother.jpg" class="img-shadow center" alt="Brother & Brother" width="50%"/>
+<img src="/img/brother_wide.jpg" class="center" alt="Brother & Brother" width="50%"/>
 
 <div>&nbsp;</div>
 
