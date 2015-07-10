@@ -25,6 +25,11 @@ body {
     margin-bottom: 20px;
 }
 
+.img-blog {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
 .vertical-align {
   position: relative;
   top: 40%;
