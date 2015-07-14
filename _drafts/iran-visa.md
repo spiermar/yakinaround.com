@@ -3,13 +3,21 @@ layout: post
 title:  "Iran Visa"
 categories: visas
 ---
-* pensei que não precisava de visto, por avião
+* decidimos não ir pela balsa em baku depois de ler algumas histórias de participantes sendo assaltados e agredidos nela
+* também pela incerteza nas datas
+* podemos chegar alguns dias antes, tirar o visto de 5 dias do turkomenistão
+* e ficar preso sem sair de baku ou na balsa na chegada
+* causando um grande problema, já que o visto é bem limitado e não podemos perder nenhum dia lá
+* iran parecia bem legal, um monte de gente indo, e simples para quem não era de uk/us/canada
+* pensei que nem precisava de visto, indo por avião
+* verifiquei com um cara no twitter
 * troca de emails com a embaixada, precisa de visto
 * mas precisa de authorization code
-* prima do ali
+* entrei em contato com a prima do ali
 * transferiu para o manager que disse que precisava de guia
 * não sei se precisa de guia (german vs us/canada/uk)
 * depois de procurar um monte, TVM dizendo que precisa
+* também troque emails com mais meia dúzia de agencias que disseram a mesma coisa
 * descobri que depois das eleicoes em 2014, todos visitando com seu proprio carro precisam de guia, independente do pais
 * poderia não informar que ia de carro para a agencia tirando o code
 * risco era grande de negarem a gente na border
