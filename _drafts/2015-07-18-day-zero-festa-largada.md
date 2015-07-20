@@ -10,7 +10,7 @@ Depois de conseguir empacotar tudo dentro do Micra pela manhã, seguimos em dire
 
 [video do estacionamento]
 
-É impressionante a variedade de carros participando do rali, e a criatividade das fantasias dos dos participantes.
+É impressionante a variedade de carros do rali, e a criatividade das fantasias dos dos participantes.
 
 * Mario
 * vikings
