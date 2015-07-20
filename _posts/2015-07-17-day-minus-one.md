@@ -53,3 +53,15 @@ Na Sexta-Feira também finalmente recebi minha carta de convite (LOI) para o Tur
 <img src="/img/posts/2015-07-17-day-minus-1/img_3.jpg" class="img-shadow img-blog" width="100%"/>
 
 No final, por falta de tempo, deixamos de fazer várias coisas que haviamos planejado, como instalar um snorkel e luzes de rally no carro, bateria maior e alguns documentos que possívelmente seriam úteis. Ainda não sei se isto foi bom ou ruim. Se isto nos obrigar a abandonar, não será o ideal, mas se gerar alguma confusão e histórias para contar, será a melhor dicisão que tomamos! Com certeza existem times bem mais (e outros bem menos) preparados. Acho que temos uma chance de chegar, mas somente vamos descobrir no caminho!
+
+Um agradecimento aos nossos novos apoiadores, Anderson Cougo, Vanessa Fernandes de Carvalho, Anelise Spier Borges e Mariane Spier Weber, que contribuiram para nossa campanha!
+
+Não deixe de contribuir! De quebra, você ainda pode escolher recompensas super legais, como cartões postais da viagem, camisetas, álbum de fotos e ainda enviar alguns desafios para equipe!
+
+<div>&nbsp;</div>
+
+<p><a href="http://www.kickante.com.br/campanhas/yakin-around-vai-mongolia-por-instituicoes-beneficentes" target="_blank" class="btn btn-default">Site da Campanha</a></p>
+
+<div>&nbsp;</div>
+
+**Contribua e compartilhe!** Todas contribuições serão doadas para as instituições de caridade!

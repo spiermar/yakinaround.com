@@ -34,10 +34,10 @@ $(document).ready(function(){
     }
   });
 
-	var timerId = countdown(
+	/* var timerId = countdown(
 		new Date(2015, 6, 19, 8, 0, 0),
 		function(ts) {
 			$('#countdown').html(ts.toString());
 		},
-    	countdown.MONTHS|countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS);
+    	countdown.MONTHS|countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS); */
 });
