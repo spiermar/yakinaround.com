@@ -33,3 +33,5 @@ Carro estragado apenas 2 horas depois da largada haha. Demos um jeito com fita m
 * mas ninguem se encontrou
 * papu tinha o convoy
 * mas todos se separaram depois do acidente
+* facetime
+* tracker não pegou dentro do ferry

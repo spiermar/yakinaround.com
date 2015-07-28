@@ -12,3 +12,13 @@ categories: trip
 * documentos chegaram e estão a caminho do hostel
 * vamos esperar os documentos aqui até amanha
 * cerveja
+* tracker acabou a bateria
+* v5 chegando amanha no hostel em Budapest
+* hillary mandou o green card, v5, tudo
+* passaram por bratislava
+* [fotos da estrada no whatsapp]
+* noticias da pamir
+* liberando a entrada de estrangeiros
+* a estrada de khorog esta destruida, mas tem um atalho
+* nenhum time pegou esta estrada
+* nem sabia que ela existia
