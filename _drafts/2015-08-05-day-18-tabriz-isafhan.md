@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 18: Tabriz to Isafhan"
+date:   2015-08-05 00:00:00
+categories: trip
+---
+Com as malas devidamente feitas, acordei cedo para iniciar a longa jornada até Tehran, onde vou encontrar o time. Serão aproximadamente 32 horas de viagem, entre voos e escalas, saindo de San Francisco, parando em Washington e Dubai, para chegar em Tehran às 2:45 da manha de Sexta-Feira. Café da manha tranquilo e sem muito transito, o que não é comum para o horário, cheguei no aeroporto com duas horas e meia de antecedência. Checkin rápido já que tinha pesado as malas anteriormente e distribuido o peso. Pit stop no Starbucks para um último café e um adeus prolongado antes de passar pela segurança.
+Uma vez na sala de embarque, resolvi verificar meus emails antes de embarcar. Para minha surpresa, diversas mensagens do Igor pelo tracker. Aparentemente está faltando lenços umedecidos e tesoura por lá. Fora isto, ele confundiu a minha data de chegada, pensando que iria chegar entre o dia 7 e 8 e não entre os dias 6 e 7. Por sorte estou levando lenços, alcool em gel e diversas ferramentas, incluindo uma tesoura. Prontamente respondi corrigindo as datas de chegada também. Depois de alguns minutos recebo uma ligação de um número 206 desconhecido. Era o Igor. Aparentemente a Vivo faz um relay pelos EUA.
+Ele estava na estrada entre Tabriz e Isafhan, dirigindo o dia todo, em um calor infernal, por mais de mil quilometros. Aparentemente as estradas no Iran são caóticas. Muitos caminhões e sem muitas regras. Ótimo ambiente para ensinar a Eliza a dirigir, já que ela somente aprendeu a dirigir quatro mêses atras, pouco antes de iniciar o rally.
+Havia um pequeno problema com os planos. Eles não estariam em Tehran na data que iria chegar. Não sei exatamente se o planos mudaram ou se não havia notado isto antes, mas é um pequeno soluço, ótima maneira de dar um pontapé incial na aventura. Ainda não sei o que vai acontecer, se os planos vão mudar ou vou ter que tirar uma soneca no aeroporto, mas no momento, não há muito o que  fazer a não ser aguentar os voos e esperar o Igor chegar em Isafhan e encontrar o resto do grupo para discutir.
