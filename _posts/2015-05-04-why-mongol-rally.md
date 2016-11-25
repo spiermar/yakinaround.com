@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why the Mongol Rally?"
-categories: getting-ready
+categories: mongolrally
 date:   2015-05-04 08:00:00
 ---
 Hey, Martin here! So why the Mongol Rally? Why we decided to join this crazy adventure and risk our lives for charity?

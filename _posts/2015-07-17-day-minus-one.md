@@ -2,7 +2,7 @@
 layout: post
 title:  "Day -1: (Mais ou Menos) Prontos para Largada"
 date:   2015-07-17 00:00:00
-categories: trip
+categories: mongolrally
 ---
 <center><iframe width="853" height="480" src="https://www.youtube.com/embed/q4y30X35Vts" frameborder="0" allowfullscreen></iframe></center>
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Brother & Brother"
 date:   2015-06-29 00:00:00
-categories: sponsor
+categories: mongolrally
 ---
 
 <img src="/img/brother_wide.jpg" class="center" alt="Brother & Brother" width="50%"/>

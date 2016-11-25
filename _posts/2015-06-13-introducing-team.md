@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing the Team"
 date:   2015-06-13 10:00:00
-categories: getting-ready
+categories: mongolrally
 ---
 Finding a team mate for this adventure is no simple task. Ignoring the fact that the vast majority of the population wouldn't even dare to leave their comfortable lives and luxurious vacations in Hawaii to be cramped in a tiny car for almost two months, camping in some family's backyard in exchange for a football jersey and risking being kidnapped by jihadists in Afghanistan, it's hard to get the resources to do something like this. Who these days can afford being away from everything for two full months?
 

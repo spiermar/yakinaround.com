@@ -2,7 +2,7 @@
 layout: post
 title:  "Sony Mobile"
 date:   2015-06-29 00:00:00
-categories: sponsor
+categories: mongolrally
 ---
 
 <img src="/img/sony.png" class="center" alt="Sony" width="50%"/>

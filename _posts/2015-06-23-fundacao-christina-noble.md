@@ -2,7 +2,7 @@
 layout: post
 title:  "Fundação para Crianças Christina Noble"
 date:   2015-06-23 09:00:00
-categories: charity
+categories: mongolrally
 ---
 
 <img src="/img/christina-noble-940x705.jpg" class="img-shadow center" alt="Cool Earth" width="50%"/>
