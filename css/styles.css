@@ -123,10 +123,10 @@ img.grayscale {
 }
 
 .header {
-  height: 100%;
+  height: 75%;
   min-height: 600px;
-  /* background: #3E606F url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed; */
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/bg_mongol_rally.jpg') no-repeat center center fixed;
+  background: #3E606F url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
+  /* background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/IMG_3627.jpg') no-repeat center center fixed; */
 }
 
 .blurb {
