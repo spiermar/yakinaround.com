@@ -125,8 +125,15 @@ img.grayscale {
 .header {
   height: 75%;
   min-height: 600px;
-  background: #3E606F url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed;
-  /* background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/IMG_3627.jpg') no-repeat center center fixed; */
+  /* background: #3E606F url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed; */
+}
+
+.mongol-header {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/IMG_3627.jpg') no-repeat center center fixed;
+}
+
+.rickshaw-header {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/rickshaw_run_bg.jpg') no-repeat center center fixed;
 }
 
 .blurb {
@@ -212,6 +219,21 @@ p.normal {
   min-height: 550px;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/pre-route.jpg');
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #859093;
+}
+
+.rickshaw-route {
+  color: #FCFFF5;
+  padding-top:7%;
+  height: 75%;
+  min-height: 550px;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/india-map.jpg');
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
