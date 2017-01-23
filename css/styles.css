@@ -233,7 +233,7 @@ p.normal {
   height: 75%;
   min-height: 550px;
   width: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/india-map.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/rickshaw_run_map_bg.jpg');
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
