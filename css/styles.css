@@ -231,7 +231,7 @@ p.normal {
   color: #FCFFF5;
   padding-top:7%;
   height: 75%;
-  min-height: 1000px;
+  min-height: 1000px !important;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/rickshaw_run_map_bg.jpg');
   background-position: center center;
